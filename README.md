@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Basic Tic-Tac-Toe with implementation of SFML 
+Basic Tic-Tac-Toe game with implementation of SFML for 2D graphic 
