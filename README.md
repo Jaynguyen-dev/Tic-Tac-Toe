@@ -131,6 +131,6 @@ To verify the game logic:
 ## 📌 Project Roadmap
 
 * [x] **`Task 1`**: Code the basic logic of a Tic-Tac-Toe game (state management).
-* [ ] **`Task 2`**: Handle user interface (rendering sprites and text).
-* [ ] **`Task 3`**: Implementation and comprehensive testing (bug fixing and edge cases).
+* [x] **`Task 2`**: Handle user interface (rendering sprites and text).
+* [x] **`Task 3`**: Implementation and comprehensive testing (bug fixing and edge cases).
 ```
