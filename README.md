@@ -24,9 +24,6 @@
   - [🤖 Usage](#-usage)
   - [🧪 Testing](#-testing)
 - [📌 Project Roadmap](#-project-roadmap)
-- [🔰 Contributing](#-contributing)
-- [🙌 Acknowledgments](#-acknowledgments)
-
 ---
 
 ## 📍 Overview
